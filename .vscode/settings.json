@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2bb1322c-9d2e-47df-8cbf-804d39060b23/resourceGroups/Flask-AI/providers/Microsoft.Web/sites/DKTranslate",
+    "appService.deploySubpath": "."
+}
